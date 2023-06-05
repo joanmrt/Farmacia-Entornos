@@ -30,5 +30,6 @@ Página de la gestión:
 
 Página del alta:
 
-![imagen](https://github.com/joanmrt/Farmacia-Entornos/assets/74322611/09f0147c-d022-4fc2-9a84-0ef3a4df9bfa)
+![imagen](https://github.com/joanmrt/Farmacia-Entornos/assets/74322611/691e646f-c515-481c-bbea-a523f40f50a3)
+
 

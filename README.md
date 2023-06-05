@@ -13,7 +13,7 @@ Este repositorio está dividido en estas tres partes, y en este README explicar�
 Esta completamente programado en Eclipse for Web Developers, usando Tomcat 10.1 para el servidor. He usado un generador Hash MD5 para que en la base de datos no quede registrado ningúna contraseña real.
 Las clases y estructura de datos esta programada con las instrucciones dada por nuestro profesor.
 
-La base de datos también esta diseñada con las instrucciones dadas.
+La base de datos también esta diseñada con las instrucciones dadas y he usado XAMPP 8.2.4 para Linux.
 
 ## Frontend
 
